@@ -1,4 +1,7 @@
-Hi, I'm Blake. I'm interested in Games, 3D Modelling, Indoor Gardening and fishing! I'm currently learning to use Next.js
+Hi, I'm Blake. I'm interested in Games, 
+3D Modelling, Gardening and fishing!
+I'm currently learning to use Three.js to
+make 3D websites.
 
 ## Want to talk?
 website is: www.blakelink.us
