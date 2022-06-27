@@ -1,7 +1,7 @@
 Hi, I'm Blake. I'm interested in Games, 3D Modelling, Indoor Gardening and fishing! I'm currently learning to use Next.js
 
 ## Want to talk?
-website is: www.blakedlink.com
+website is: www.blakelink.us
 
 email me at: blakelinkd@gmail.com
 
